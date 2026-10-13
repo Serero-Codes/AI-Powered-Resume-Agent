@@ -1,0 +1,360 @@
+{
+    "personal": {
+        "full_name": "Serero Immanuel Mokwena",
+        "email": "sereroemmanuel4@gmail.com",
+        "phone": "076 533 4475",
+        "location": "Johannesburg, Gauteng",
+        "linkedin": "www.linkedin.com/in/serero-mokwena-3577b3347",
+        "github": "https://github.com/Serero-Codes",
+        "portfolio": ""
+    },
+    "professional_summary": "My journey began in 2022 with a foundational Higher Certificate in Information Technology, where I first discovered my passion for breaking down complex computing logic and system mechanics. That initial milestone ignited an intense commitment to rigorous software engineering, leading me to pursue a National Diploma in Information Technology (Software Development) at Nelson Mandela University from 2023 through 2025. During those academic years, I deliberately pushed myself beyond theoretical coursework: I dove deep into object-oriented design and network fundamentals through Cisco's CCNAv7 curriculum, discovering early on that building great software requires an intimate understanding of the underlying network pathways, packets, and infrastructure.\n\nBetween 2024 and 2025, I took my first direct industry steps as a Web Development Intern at Hex Software and subsequently as a Software Integration Intern at Kion Consulting. These roles exposed me to the harsh realities of real-world enterprise codebases—messy integrations, brittle interfaces, and legacy systems. I faced the steep learning curve of translating abstract classroom design patterns into robust production APIs, live client pipelines, and managing complex database schemas across SQL Server and PostgreSQL. Concurrently, in 2025, I stepped forward as Assistant Manager of Tech & Innovations for GeekKulchaNMU. Stepping into mentorship while still learning myself was a formative challenge; facilitating C# workshops and organizing hackathons forced me to articulate software concepts simply and precisely, refining my communication and confirming that true mastery comes from empowering others to solve difficult problems.\n\nAs my software projects matured—spearheading the enterprise Hospital Management System in C# and ASP.NET Core, and building Smart CV Builder—I realized that writing efficient code was only half the battle. If applications cannot be reliably provisioned, secured, and scaled, their impact collapses. This mindset shift pushed me straight toward cloud infrastructure and DevOps. Confronting the intimidation of cloud networking and distributed systems, I tackled multi-cloud fundamentals (earning the Microsoft Azure AZ-900 certification) and immersed myself in Amazon Web Services. I embraced the discipline of Infrastructure as Code, mastering Terraform and Docker to replace manual configuration with automated, reproducible blueprints—culminating in my design of a multi-AZ 3-Tier Containerized AWS Architecture and event-driven serverless solutions.\n\nNow based in Johannesburg and working as a Junior Cloud Engineer at UVU Africa (Capaciti), I operate at the convergence of cloud infrastructure and generative AI. In 2026, I proved my problem-solving resilience on a national stage by leading an agentic AI implementation to 4th place at the AWS Summit Johannesburg GameDay challenge. Today, my engineering philosophy is driven by contextual problem-solving: whether eliminating financial documentation friction with the Murex Minimalizer RAG assistant, bridging South African educational divides across isiZulu and isiXhosa with Siyafunda Siyapassa, or addressing local transit transparency with the BitRide transit API. I view obstacles not as roadblocks, but as design constraints that sharpen code efficiency, system resilience, and meaningful societal impact.",
+    "career_objectives": [
+        "I aim to continue advancing my expertise in cloud-native architecture, generative AI integration, and scalable software solutions. My goal is to lead innovative projects that leverage cutting-edge technologies to solve complex real-world problems, particularly in the domains of financial systems, educational accessibility, and urban mobility. I am committed to continuous learning and professional growth, seeking opportunities to mentor emerging developers and contribute to the broader tech community."
+    ],
+    "education": [
+        {
+            "name": "HIGHER CERTIFICATE IN INFORMATION TECHNOLOGY - 2022"
+        },
+        {
+            "name": "NATIONAL DIPLOMA IN INFORMATION TECHNOLOGY (SOFTWARE DEVELOPMENT) - 2023-2025"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Cloud Engineer Intern",
+            "company": "UVU Africa (Capaciti)",
+            "period": "2026 - Present",
+            "location": "Johannesburg, South Africa",
+            "highlights": [
+                "Architect and implement cloud-native infrastructure on AWS utilizing VPC, EC2, S3, RDS, Lambda, and Application Load Balancers.",
+                "Automate cloud deployments and repeatable infrastructure blueprints using Terraform and Docker containerization.",
+                "Collaborate in cross-functional engineering teams to implement agentic AI solutions, securing 4th place at the AWS Summit Johannesburg GameDay challenge.",
+                "Apply best-practice security policies, networking routing tables, and access control across staging and production cloud environments."
+            ]
+        },
+        {
+            "role": "Software Integration Intern",
+            "company": "Kion Consulting",
+            "period": "2025 - 2026",
+            "location": "South Africa",
+            "highlights": [
+                "Integrated backend services and RESTful APIs across client-facing enterprise software modules.",
+                "Assisted in database management, schema design, and query optimization using SQL databases.",
+                "Collaborated on unit testing, debugging, and maintaining full-stack application modules."
+            ]
+        },
+        {
+            "role": "Web Development Intern",
+            "company": "Hex Software",
+            "period": "2024 - 2025",
+            "location": "South Africa",
+            "highlights": [
+                "Developed responsive user interfaces and client-side logic using JavaScript, HTML5, CSS3, and Bootstrap.",
+                "Integrated frontend interfaces with RESTful API endpoints and assisted in code review and Git-based collaborative workflows."
+            ]
+        },
+        {
+            "role": "Assistant Manager of Tech & Innovations",
+            "company": "GeekKulchaNMU",
+            "period": "2025",
+            "location": "Gqeberha (Port Elizabeth), South Africa",
+            "highlights": [
+                "Organized and facilitated C# programming workshops, developer bootcamps, and hackathons for university IT students.",
+                "Provided technical mentorship in object-oriented programming, software architecture, and problem-solving best practices."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Murex Minimalizer AI Assistant",
+            "technologies": [
+                "Python",
+                "Flask",
+                "OpenAI API",
+                "Retrieval-Augmented Generation (RAG)",
+                "Vector Stores"
+            ],
+            "description": "Engineered an AI-powered financial trade-booking assistant that simplifies and accelerates complex trade-booking workflows by utilizing RAG retrieval over institutional documentation and vector stores.",
+            "highlights": [
+                "Core Focus: Financial trade-booking workflow automation, context-aware semantic retrieval, and specialized domain prompt engineering.",
+                "Tech Stack: Python, Flask backend, OpenAI API, vector stores, and custom RAG retrieval pipelines.",
+                "Goal & Impact: Aimed to drastically reduce error rates and time spent navigating dense Murex documentation by providing instant, accurate, step-by-step trade configuration guidance."
+            ]
+        },
+        {
+            "name": "3-Tier Containerized AWS Architecture",
+            "technologies": [
+                "AWS (VPC, ALB, RDS, EC2)",
+                "Terraform",
+                "Docker",
+                "PostgreSQL"
+            ],
+            "description": "Architected and provisioned a highly available, multi-AZ 3-tier web architecture featuring custom public/private subnets, managed NAT gateways, load balancing, and automated infrastructure as code.",
+            "highlights": [
+                "Core Focus: Infrastructure as Code (IaC), zero-trust network segregation, high availability, and container orchestration.",
+                "Tech Stack: Terraform, AWS (VPC, Subnets, NAT Gateways, ALB, EC2, RDS PostgreSQL), Docker.",
+                "Goal & Impact: Built to eliminate single points of failure and automate cloud provisioning, creating an enterprise-grade blueprint with secure isolation between public web tiers, internal app servers, and private database subnets."
+            ]
+        },
+        {
+            "name": "Ticketless Parking System",
+            "technologies": [
+                "AWS (Lambda, S3, RDS)",
+                "Python",
+                "Computer Vision / OCR Integration",
+                "REST APIs"
+            ],
+            "description": "Designed a cloud-native automated parking validation system leveraging AWS serverless architecture, event-driven compute via Lambda, and relational data storage.",
+            "highlights": [
+                "Core Focus: Event-driven serverless computing, automated license plate recognition, and real-time vehicle entry/exit auditing.",
+                "Tech Stack: AWS Lambda (Python), Amazon S3, Amazon RDS, RESTful API endpoints.",
+                "Goal & Impact: Aimed to eliminate physical paper ticketing bottlenecks and optimize cloud cost-efficiency by executing validation workloads strictly on-demand via serverless functions."
+            ]
+        },
+        {
+            "name": "Siyafunda Siyapassa",
+            "technologies": [
+                "Flask",
+                "JavaScript",
+                "Groq API",
+                "Multilingual Prompt Engineering"
+            ],
+            "description": "Built an AI-driven educational tutoring platform providing real-time curriculum support and interactive problem-solving across English, isiZulu, and isiXhosa.",
+            "highlights": [
+                "Core Focus: Educational equity, localized language processing, ultra-low-latency AI inferencing, and curriculum-aligned STEM tutoring.",
+                "Tech Stack: Python (Flask), Groq API (high-speed LLaMA/Mixtral inference), JavaScript, responsive frontend.",
+                "Goal & Impact: Developed to overcome language barriers in South African education, enabling students to learn complex academic concepts directly in their mother tongue with sub-second AI response times."
+            ]
+        },
+        {
+            "name": "Smart CV Builder",
+            "technologies": [
+                "Python",
+                "Flask",
+                "Vue.js",
+                "ReportLab",
+                "Bootstrap"
+            ],
+            "description": "Developed a full-stack automated resume generation web application allowing users to input structured career milestones and dynamically generate styled, downloadable PDFs.",
+            "highlights": [
+                "Core Focus: Dynamic document compilation, reactive UI state management, and template automation.",
+                "Tech Stack: Vue.js frontend, Python (Flask) API, ReportLab PDF rendering engine, Bootstrap.",
+                "Goal & Impact: Solved the challenge of manual ATS-friendly formatting by allowing job seekers to input raw profile data and instantly compile production-ready, standardized PDF resumes."
+            ]
+        },
+        {
+            "name": "Hospital Management System",
+            "technologies": [
+                "C#",
+                "ASP.NET Core MVC",
+                "ASP.NET Identity",
+                "SQL Server"
+            ],
+            "description": "Led team development of an enterprise digital hospital management portal with role-based access control, appointment booking, patient records, and staff management workflows.",
+            "highlights": [
+                "Core Focus: Enterprise application architecture, Role-Based Access Control (RBAC), relational database integrity, and healthcare operational workflows.",
+                "Tech Stack: C#, ASP.NET Core MVC, ASP.NET Identity, Entity Framework Core, Microsoft SQL Server.",
+                "Goal & Impact: Spearheaded team development to modernize clinical paper tracking, delivering a secure portal for staff shifts, patient record auditing, and automated doctor appointments."
+            ]
+        },
+        {
+            "name": "BitRide Transit & Taxi Fare API",
+            "technologies": [
+                "Python",
+                "Flask",
+                "RESTful APIs",
+                "Geolocation & Route Mapping"
+            ],
+            "description": "Constructed a transit estimation API specifically tailored for Gauteng minibus taxi routes, providing route mapping and dynamic fare calculations.",
+            "highlights": [
+                "Core Focus: Informal public transit digitisation, spatial route mapping, dynamic algorithmic fare calculation, and REST API design.",
+                "Tech Stack: Python, Flask, RESTful endpoints, geolocation algorithms, structured transit routing data.",
+                "Goal & Impact: Addressed the lack of digitized transit information across Gauteng by providing commuter transparency on complex minibus taxi ranks, stops, and price structures."
+            ]
+        },
+        {
+            "name": "James Local Voice Assistant",
+            "technologies": [
+                "Python",
+                "Google Gemini API",
+                "SpeechRecognition",
+                "Kokoro TTS"
+            ],
+            "description": "Created a lightweight local desktop voice assistant integrating speech-to-text, fast neural text-to-speech synthesis, and conversational generative AI models.",
+            "highlights": [
+                "Core Focus: Conversational AI integration, low-latency audio capture, localized neural text-to-speech synthesis, and custom prompt personality control.",
+                "Tech Stack: Python, Google Gemini API, Kokoro TTS, SpeechRecognition library, PyAudio.",
+                "Goal & Impact: Built an offline-capable/hybrid personal voice interface capable of executing rapid hands-free desktop tasks with natural vocal cadence and concise conversational responses."
+            ]
+        },
+        {
+            "name": "Nail Artist Portfolio Platform",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "description": "Designed and deployed a responsive commercial marketing website featuring interactive portfolio galleries, service pricing catalogs, and client booking inquiry funnels.",
+            "highlights": [
+                "Core Focus: Responsive mobile-first UI/UX, brand positioning, interactive client galleries, and conversion funnels.",
+                "Tech Stack: HTML5, CSS3, JavaScript (DOM manipulation), Bootstrap framework.",
+                "Goal & Impact: Built for a small beauty enterprise to transition from direct messaging to a professional web presence, improving brand reach and streamlining client service inquiries."
+            ]
+        }
+    ],
+    "skills": {
+        "programming_languages": [
+            "Python",
+            "C#",
+            "JavaScript",
+            "SQL",
+            "HTML5",
+            "CSS3"
+        ],
+        "cloud": [
+            "Amazon Web Services (AWS)",
+            "AWS Lambda",
+            "Amazon S3",
+            "Amazon RDS",
+            "Amazon VPC",
+            "Application Load Balancer (ALB)",
+            "Microsoft Azure (AZ-900 Certified)",
+            "Google Cloud Platform (Generative AI Credentials)"
+        ],
+        "databases": [
+            "PostgreSQL",
+            "Microsoft SQL Server",
+            "SQLAlchemy",
+            "Vector Stores / Vector Databases",
+            "AI-Enabled Database Solutions"
+        ],
+        "networking": [
+            "AWS VPC (Subnets, Route Tables, NAT & Internet Gateways)",
+            "Cisco CCNAv7 (Introduction to Networks)",
+            "DNS Configuration",
+            "Load Balancing",
+            "TCP/IP & Network Fundamentals"
+        ],
+        "ai_and_machine_learning": [
+            "Retrieval-Augmented Generation (RAG)",
+            "Prompt Engineering (CRISP Framework)",
+            "Agentic AI Architectures (AWS GameDay / Multi-Agent Systems)",
+            "OpenAI API Integration",
+            "Google Gemini API Integration",
+            "Groq API Integration",
+            "Text-to-Speech (TTS) & Speech Recognition (Kokoro TTS, SpeechRecognition)",
+            "AWS & Google Cloud Generative AI Credentials",
+            "AI Assistant Development (Murex Minimalizer, Siyafunda Siyapassa, James Voice Assistant)"
+        ],
+        "devops": [
+            "Terraform (Infrastructure as Code)",
+            "Docker (Containerization)",
+            "Kubernetes",
+            "Git & GitHub (Version Control, Branching, CI/CD Workflows)",
+            "3-Tier Cloud Architecture Deployment"
+        ],
+        "tools": [
+            "Flask",
+            "ASP.NET Core MVC",
+            "ASP.NET Identity",
+            "Vue.js",
+            "Pandas",
+            "Bootstrap",
+            "ReportLab",
+            "pgAdmin",
+            "Visual Studio",
+            "VS Code"
+        ],
+        "other": [
+            "RESTful API Design & Integration",
+            "Microservices & Serverless Architecture",
+            "Data Science Fundamentals (IBM Python Training)",
+            "PC Hardware Diagnostics, RAM Upgrades & SSD Configuration",
+            "Technical Mentorship & C# Workshop Facilitation (GeekKulchaNMU)",
+            "Multilingual AI Tutoring Architecture (English, isiZulu, isiXhosa)",
+            "Financial / Trade-Booking Automation (Murex Integration)"
+        ]
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Fundamentals (AZ-900)"
+        },
+        {
+            "name": "SFIA AWS Cloud Solutions Architect Professional Certification"
+        },
+        {
+            "name": "Cisco Certified Network Associate v7: Introduction to Networks (Cisco Networking Academy)"
+        },
+        {
+            "name": "Developing AI-Enabled Database Solutions Certification"
+        }
+    ],
+    "courses": [
+        {
+            "name": "AWS Cloud Architecture & Solutions Engineering Training"
+        },
+        {
+            "name": "IBM Python for Data Science and AI"
+        },
+        {
+            "name": "Google Cloud Generative AI Fundamentals"
+        },
+        {
+            "name": "AWS Generative AI Foundations & Machine Learning Concepts"
+        },
+        {
+            "name": "CCNAv7: Introduction to Networks Courseware (Cisco)"
+        },
+        {
+            "name": "Full-Stack Web Development & Enterprise Software Engineering (Nelson Mandela University)"
+        }
+    ],
+    "achievements": [
+        {
+            "name": "4th Place Winner - AWS Summit Johannesburg GameDay Challenge (Agentic AI Implementation, 2026)"
+        },
+        {
+            "name": "Served as Assistant Manager of Tech & Innovations at GeekKulchaNMU (2025)"
+        },
+        {
+            "name": "Spearheaded and delivered enterprise software projects including Hospital Management System and Murex Trade-Booking Assistant"
+        },
+        {
+            "name": "2nd place winner, kion consulting hackathon - Designed and launched Siyafunda Siyapassa, a multilingual AI tutoring tool supporting South African indigenous languages"
+        }
+    ],
+    "interests": [
+        "Cloud Infrastructure Architecture & Serverless Computing",
+        "Generative AI, Prompt Engineering & Agentic Workflows",
+        "PC Hardware Building, Component Benchmarking & System Upgrades",
+        "Automotive Engineering & Custom Vehicle Modifications",
+        "Digital Content Creation, AI-Assisted Animation & Tech Mentorship",
+        "Competitive Cloud Gaming & Simulation"
+    ],
+    "professional_development": [
+        {
+            "name": "Active participant and competitor at AWS Summit Johannesburg events and cloud hackathons"
+        },
+        {
+            "name": "Ongoing preparation for advanced multi-cloud certifications across AWS and Azure"
+        },
+        {
+            "name": "Workshop facilitation and technical developer training in C#, .NET, and software architecture at Nelson Mandela University"
+        },
+        {
+            "name": "Research into localized Speech-to-Text and Text-to-Speech synthesis models (Kokoro TTS, Gemini API)"
+        }
+    ],
+    "languages": [
+        "English (Fluent / Professional)",
+        "isiZulu (Conversational / Working Proficiency)",
+        "isiXhosa (Conversational / Working Proficiency)"
+    ],
+    "additional_information": [
+        "Based in Johannesburg, Gauteng, South Africa",
+        "Experienced in designing and delivering solutions tailored to local South African infrastructure and urban mobility (e.g., BitRide transit fare estimation)",
+        "Strong advocate for tech education, community developer initiatives, and bridging language accessibility gaps through AI"
+    ]
+}

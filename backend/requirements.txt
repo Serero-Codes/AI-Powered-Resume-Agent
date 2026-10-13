@@ -1,0 +1,13 @@
+Flask
+flask-cors
+python-dotenv
+requests
+google-genai
+tavily-python
+python-docx
+reportlab
+PyMuPDF
+Pillow
+pydantic
+beautifulsoup4
+lxml
