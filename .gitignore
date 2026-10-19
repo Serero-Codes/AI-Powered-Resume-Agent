@@ -13,3 +13,7 @@ frontend/dist/
 backend/uploads/*
 backend/output/*
 backend/data/career_profile.json
+
+__pycache__/
+*.py[cod]
+.venv/
